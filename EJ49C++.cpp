@@ -4,10 +4,10 @@ using namespace std;
 
 int main()
 {
-    int n, i = 0, acum = 0;
-    int vector[20];
+    int n, i = 1, acum = 1;
+    int vector[21];
 
-    for (i = 0; i < 20; i++) {
+    for (i = 1; i < 21; i++) {
         cout << "ingresa numero entero " << i << ": ";
         cin >> n;
         vector[i] = n;
