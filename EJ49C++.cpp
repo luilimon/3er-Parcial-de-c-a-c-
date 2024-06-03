@@ -1,3 +1,4 @@
+//modificar el numero de indice para que no salga cero sino desde 1
 #include <iostream>
 using namespace std;
 
